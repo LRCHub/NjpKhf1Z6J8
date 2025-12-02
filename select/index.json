@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ペンディング・マシーン",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-02T12:47:43.829329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペンディング・マシーン",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/01_ペンディング・マシーン_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペンディング・マシーン",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_ペンディング・マシーン_Official髭男dism.txt"
+    }
+  ]
+}
